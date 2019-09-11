@@ -1,3 +1,0 @@
-	Haskell é uma linguagem funcional, ou seja, ela é baseada nos resultados das funções e a programação é feita com expressões, como se as funções fossem objetos. O valor de saída vai depender apenas dos argumentos de entrada.
- 	Já java, é uma linguagem de programação orientada a objetos, que é baseado em interações entre diversas unidades chamadas de 'objetos'.
-	E Python é uma linguagem de programação de alto nível, interpretada, de script, imperativa que pode ser procedural, orientada a objetos(feito java) e funcional(feito haskell), de tipagem dinâmica e forte.
